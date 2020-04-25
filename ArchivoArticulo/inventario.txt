@@ -1,0 +1,4 @@
+Zapatos  2  150.00
+Pantalon 3  224.99
+Vestido  1  367.50
+Collar    5   79.99
